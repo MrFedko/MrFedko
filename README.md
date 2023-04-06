@@ -7,5 +7,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFedko&show_icons=true&theme=radical)
 
-–––
+__________
+
 ![](https://komarev.com/ghpvc/?username=MrFedko)
