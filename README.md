@@ -5,5 +5,7 @@
 - ⚡ Fun fact: I'm a bartender.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFedko)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFedko&show_icons=true&theme=radical)
+
+–––
 ![](https://komarev.com/ghpvc/?username=MrFedko)
