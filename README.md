@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I'm a bartender.
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFedko&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFedko&show_icons=true&theme=transparent)
 
 __________
 
