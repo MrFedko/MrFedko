@@ -5,8 +5,7 @@
 - ⚡ Fun fact: I'm a bartender.
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFedko&show_icons=true&theme=transparent) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFedko&hide=contribs,prs)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFedko&show_icons=true&theme=transparent) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFedko)](https://github.com/anuraghazra/github-readme-stats)
 __________
 
 ![](https://komarev.com/ghpvc/?username=MrFedko)
