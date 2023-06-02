@@ -7,7 +7,7 @@
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MrFedko&show_icons=true&theme=transparent) 
 
-[![Top Langs](https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=MrFedko&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrFedko&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 __________
 
 ![](https://komarev.com/ghpvc/?username=MrFedko)
